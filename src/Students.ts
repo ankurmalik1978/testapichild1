@@ -11,7 +11,7 @@ class Students{
         return this.fName.concat(this.lName).concat(" Hi there!!");
     }
 
-    getNewFullName10():string{
+    getNewFullName13():string{
         return this.fName.concat(this.lName).concat(" Hi there!!");
     }
 }
